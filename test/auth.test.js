@@ -1,4 +1,4 @@
-import { test } from 'node:test';
+pimport { test } from 'node:test';
 import assert from 'node:assert/strict';
 
 process.env.GEMINI_API_KEY = process.env.GEMINI_API_KEY || 'unused-in-these-tests';
